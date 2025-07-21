@@ -28,8 +28,8 @@ export default function SignupPage() {
               <div className="text-xs text-blue-100">Smart Goals</div>
             </div>
             <div className="bg-white/10 rounded-2xl p-4 backdrop-blur-sm">
-              <div className="text-2xl mb-2">�</div>
-              <div className="text-xs text-blue-100">Mobile Ready</div>
+              <div className="text-2xl mb-2">🔒</div>
+              <div className="text-xs text-blue-100">Secure</div>
             </div>
           </div>
         </div>

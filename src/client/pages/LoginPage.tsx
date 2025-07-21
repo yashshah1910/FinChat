@@ -28,7 +28,7 @@ export default function LoginPage() {
               <div className="text-xs text-emerald-100">Analytics</div>
             </div>
             <div className="bg-white/10 rounded-2xl p-4 backdrop-blur-sm">
-              <div className="text-2xl mb-2">�</div>
+              <div className="text-2xl mb-2">🔒</div>
               <div className="text-xs text-emerald-100">Secure</div>
             </div>
           </div>
